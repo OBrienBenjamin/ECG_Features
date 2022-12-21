@@ -1,5 +1,5 @@
 % % % % path
-path = '/Users/benjiobrien/Desktop/example.csv';
+path = '/path/to/example.csv';
 
 PLOT = 0; % % % plot on (1) or off (0)
 
